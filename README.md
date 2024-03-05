@@ -1,2 +1,2 @@
-# my-_first
-first
+# hello
+this is a test code
